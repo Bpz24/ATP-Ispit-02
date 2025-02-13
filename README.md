@@ -24,3 +24,25 @@ Usability testing is carried out by giving users various tasks to perform on the
 ```python
 def user_exp():
     print("Good morning!")
+```
+
+## Citat
+> jabuke su voće
+
+## Tablica
+| Naziv projekta | Verzija | Autor       | Datum      | Tehnologije            |
+|-----------------|---------|-------------|------------|------------------------|
+| Windows ExampleApp     | 1.44     | Ana  | 13.02.2025 | HTML, CSS  |
+
+## Popisi
+1. Jabuka
+2. Banana
+3. Naranča
+4. Jagoda
+5. Grožđe
+
+- Jabuka
+- Banana
+- Naranča
+- Jagoda
+- Grožđe
